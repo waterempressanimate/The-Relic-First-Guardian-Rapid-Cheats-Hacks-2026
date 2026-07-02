@@ -1,0 +1,15 @@
+═══════════════════════════════════════════════════════════════
+
+Quick Help Guide
+
+If you need assistance, please refer to:
+
+1. README.md — main documentation with full instructions
+2. FAQ section — answers to common questions
+3. Troubleshooting section — solutions for common issues
+
+For any other questions, open an Issue on GitHub.
+
+Remember to always run as Administrator and disable your antivirus before using.
+
+═══════════════════════════════════════════════════════════════
